@@ -1,5 +1,5 @@
 {
-  "timestamp": 1629463613,
+  "timestamp": 1629817496,
   "signatures": {
     "anim_overlays": 10624,
     "clientstate_choked_commands": 19760,
@@ -46,7 +46,7 @@
     "dwZoomSensitivityRatioPtr": 14241064,
     "dwbSendPackets": 882586,
     "dwppDirect3DDevice9": 684112,
-    "find_hud_element": 748287776,
+    "find_hud_element": 784332576,
     "force_update_spectator_glow": 3864170,
     "interface_engine_cvar": 256492,
     "is_c4_owner": 3916480,
@@ -93,7 +93,7 @@
     "m_bUseCustomAutoExposureMin": 2520,
     "m_bUseCustomBloomScale": 2522,
     "m_clrRender": 112,
-    "m_dwBoneMatrix": 9744,
+    "m_dwBoneMatrix": 9896,
     "m_fAccuracyPenalty": 13104,
     "m_fFlags": 260,
     "m_flC4Blow": 10640,
