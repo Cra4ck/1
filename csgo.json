@@ -1,5 +1,5 @@
 {
-  "timestamp": 1632280489,
+  "timestamp": 1632322333,
   "signatures": {
     "anim_overlays": 10640,
     "clientstate_choked_commands": 19760,
@@ -15,6 +15,7 @@
     "dwClientState_MaxPlayer": 904,
     "dwClientState_PlayerInfo": 21184,
     "dwClientState_State": 264,
+    "dwClientState_ViewAngles": 19856,
     "dwEntityList": 81511940,
     "dwForceAttack": 52349828,
     "dwForceAttack2": 52349840,
@@ -45,7 +46,7 @@
     "dwZoomSensitivityRatioPtr": 14339752,
     "dwbSendPackets": 883522,
     "dwppDirect3DDevice9": 684112,
-    "find_hud_element": 720118880,
+    "find_hud_element": 744563808,
     "force_update_spectator_glow": 3880378,
     "interface_engine_cvar": 256492,
     "is_c4_owner": 3933456,
