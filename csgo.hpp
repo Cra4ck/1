@@ -1,7 +1,7 @@
 #pragma once
 #include <cstddef>
 
-// 2021-10-22 12:15:10.248269 UTC
+// 2021-10-24 17:07:16.465574200 UTC
 
 namespace hazedumper {
 namespace netvars {
@@ -70,7 +70,6 @@ constexpr ::std::ptrdiff_t m_iCompetitiveWins = 0x1B88;
 constexpr ::std::ptrdiff_t m_iCrosshairId = 0x11838;
 constexpr ::std::ptrdiff_t m_iDefaultFOV = 0x333C;
 constexpr ::std::ptrdiff_t m_iEntityQuality = 0x2FBC;
-constexpr ::std::ptrdiff_t m_iFOV = 0x31F4;
 constexpr ::std::ptrdiff_t m_iFOVStart = 0x31F8;
 constexpr ::std::ptrdiff_t m_iGlowIndex = 0x10488;
 constexpr ::std::ptrdiff_t m_iHealth = 0x100;
@@ -145,7 +144,7 @@ constexpr ::std::ptrdiff_t dwYawPtr = 0xDAABF8;
 constexpr ::std::ptrdiff_t dwZoomSensitivityRatioPtr = 0xDAFE98;
 constexpr ::std::ptrdiff_t dwbSendPackets = 0xD7BD2;
 constexpr ::std::ptrdiff_t dwppDirect3DDevice9 = 0xA7050;
-constexpr ::std::ptrdiff_t find_hud_element = 0x2F492EA0;
+constexpr ::std::ptrdiff_t find_hud_element = 0x53C62EA0;
 constexpr ::std::ptrdiff_t force_update_spectator_glow = 0x3B3EFA;
 constexpr ::std::ptrdiff_t interface_engine_cvar = 0x3E9EC;
 constexpr ::std::ptrdiff_t is_c4_owner = 0x3C0E50;

@@ -1,6 +1,6 @@
 using System;
 
-// 2021-10-22 12:15:10.248269 UTC
+// 2021-10-24 17:07:16.465574200 UTC
 
 namespace hazedumper
 {
@@ -71,7 +71,6 @@ namespace hazedumper
         public const Int32 m_iCrosshairId = 0x11838;
         public const Int32 m_iDefaultFOV = 0x333C;
         public const Int32 m_iEntityQuality = 0x2FBC;
-        public const Int32 m_iFOV = 0x31F4;
         public const Int32 m_iFOVStart = 0x31F8;
         public const Int32 m_iGlowIndex = 0x10488;
         public const Int32 m_iHealth = 0x100;
@@ -147,7 +146,7 @@ namespace hazedumper
         public const Int32 dwZoomSensitivityRatioPtr = 0xDAFE98;
         public const Int32 dwbSendPackets = 0xD7BD2;
         public const Int32 dwppDirect3DDevice9 = 0xA7050;
-        public const Int32 find_hud_element = 0x2F492EA0;
+        public const Int32 find_hud_element = 0x53C62EA0;
         public const Int32 force_update_spectator_glow = 0x3B3EFA;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3C0E50;

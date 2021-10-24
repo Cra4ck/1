@@ -1,4 +1,4 @@
-' 2021-10-22 12:15:10.248269 UTC
+' 2021-10-24 17:07:16.465574200 UTC
 
 Namespace hazedumper
     Public Shared Class netvars
@@ -67,7 +67,6 @@ Namespace hazedumper
         Public Const m_iCrosshairId as Integer = &H11838
         Public Const m_iDefaultFOV as Integer = &H333C
         Public Const m_iEntityQuality as Integer = &H2FBC
-        Public Const m_iFOV as Integer = &H31F4
         Public Const m_iFOVStart as Integer = &H31F8
         Public Const m_iGlowIndex as Integer = &H10488
         Public Const m_iHealth as Integer = &H100
@@ -142,7 +141,7 @@ Namespace hazedumper
         Public Const dwZoomSensitivityRatioPtr as Integer = &HDAFE98
         Public Const dwbSendPackets as Integer = &HD7BD2
         Public Const dwppDirect3DDevice9 as Integer = &HA7050
-        Public Const find_hud_element as Integer = &H2F492EA0
+        Public Const find_hud_element as Integer = &H53C62EA0
         Public Const force_update_spectator_glow as Integer = &H3B3EFA
         Public Const interface_engine_cvar as Integer = &H3E9EC
         Public Const is_c4_owner as Integer = &H3C0E50
