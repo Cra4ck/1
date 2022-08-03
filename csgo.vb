@@ -1,4 +1,4 @@
-' 2022-07-21 15:48:10.998670500 UTC
+' 2022-08-02 12:58:01.205504500 UTC
 
 Namespace hazedumper
     Public Shared Class netvars
@@ -84,6 +84,7 @@ Namespace hazedumper
         Public Const m_nFallbackSeed as Integer = &H31DC
         Public Const m_nFallbackStatTrak as Integer = &H31E4
         Public Const m_nForceBone as Integer = &H268C
+        Public Const m_nModelIndex as Integer = &H258
         Public Const m_nTickBase as Integer = &H3440
         Public Const m_nViewModelIndex as Integer = &H29D0
         Public Const m_rgflCoordinateFrame as Integer = &H444
@@ -117,14 +118,14 @@ Namespace hazedumper
         Public Const dwForceAttack2 as Integer = &H320BDD4
         Public Const dwForceBackward as Integer = &H320BE10
         Public Const dwForceForward as Integer = &H320BE04
-        Public Const dwForceJump as Integer = &H52858A0
+        Public Const dwForceJump as Integer = &H52858DC
         Public Const dwForceLeft as Integer = &H320BE1C
         Public Const dwForceRight as Integer = &H320BE28
         Public Const dwGameDir as Integer = &H62B900
-        Public Const dwGameRulesProxy as Integer = &H52F90BC
+        Public Const dwGameRulesProxy as Integer = &H52F910C
         Public Const dwGetAllClasses as Integer = &HDE9C9C
         Public Const dwGlobalVars as Integer = &H58CCE0
-        Public Const dwGlowObjectManager as Integer = &H5324590
+        Public Const dwGlowObjectManager as Integer = &H53245E8
         Public Const dwInput as Integer = &H522CED0
         Public Const dwInterfaceLinkList as Integer = &H96EF44
         Public Const dwLocalPlayer as Integer = &HDBF4BC
@@ -142,11 +143,12 @@ Namespace hazedumper
         Public Const dwZoomSensitivityRatioPtr as Integer = &HDCB610
         Public Const dwbSendPackets as Integer = &HD8452
         Public Const dwppDirect3DDevice9 as Integer = &HA6050
-        Public Const find_hud_element as Integer = &H34F759D0
-        Public Const force_update_spectator_glow as Integer = &H3BE2BA
+        Public Const find_hud_element as Integer = &H55285A80
+        Public Const force_update_spectator_glow as Integer = &H3BE35A
         Public Const interface_engine_cvar as Integer = &H3EA3C
-        Public Const is_c4_owner as Integer = &H3CB320
+        Public Const is_c4_owner as Integer = &H3CB3D0
         Public Const m_bDormant as Integer = &HED
+        Public Const m_bIsLocalPlayer as Integer = &H3628
         Public Const m_flSpawnTime as Integer = &H103C0
         Public Const m_pStudioHdr as Integer = &H2950
         Public Const m_pitchClassPtr as Integer = &H5210910
